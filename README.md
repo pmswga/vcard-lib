@@ -20,7 +20,7 @@ vCard-lib it is static library using in your projects. For example it can be add
 | vCardCollector | Basic class that collect list of contacts |
 | vCardTranslator | Basic class that translate list of contacts to vCard |
 
-
+More information you get into ___/docs___ folder
 
 # Future releases
 
